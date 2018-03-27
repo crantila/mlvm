@@ -9,12 +9,12 @@ Loosely based on the "mlvm" project for macOS: https://github.com/withjam/mlvm
 
 ## Install
 
-#. Clone the repository.
-#. Create a virtualenv with Python 3.5 or newer.
-#. Activate the virtualenv.
-#. Run `pip install -r requirements.txt` in this directory.
-#. Deactivate the virtualenv.
-#. Make a script like this, somewhere in your PATH:
+1. Clone the repository.
+1. Create a virtualenv with Python 3.5 or newer.
+1. Activate the virtualenv.
+1. Run `pip install -r requirements.txt` in this directory.
+1. Deactivate the virtualenv.
+1. Make a script like this, somewhere in your PATH:
 
 ```bash
 #!/usr/bin/env bash
